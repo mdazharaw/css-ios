@@ -1,0 +1,159 @@
+.icon{
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    margin: auto;
+    background-position: center;
+
+}
+.label{
+    color: white;
+    margin: auto;
+    font-size: small;
+    stroke: black;
+}
+
+.main-cont{
+    width:375px;
+    height: 667px;
+    background-image: url('Wallpaper/Default.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/* .app{
+    margin-top: 3px;
+    margin-bottom: 10px;
+} */
+
+.mail{
+    background-image: url('appIcons/mail.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.cal{
+    background-image: url('appIcons/cal.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.photos{
+    background-image: url('appIcons/photos.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.cam{
+    background-image: url('appIcons/cam.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.maps{
+    background-image: url('appIcons/maps.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.clock{
+    background-image: url('appIcons/clock.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.weather{
+    background-image: url('appIcons/weather.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.news{
+    background-image: url('appIcons/news.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.home{
+    background-image: url('appIcons/home.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.notes{
+    background-image: url('appIcons/notes.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.stocks{
+    background-image: url('appIcons/stocks.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.reminders{
+    background-image: url('appIcons/reminders.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.videos{
+    background-image: url('appIcons/tv.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.appstore{
+    background-image: url('appIcons/app.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.itunes{
+    background-image: url('appIcons/itunes.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.books{
+    background-image: url('appIcons/books.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.health{
+    background-image: url('appIcons/health.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.wallet{
+    background-image: url('appIcons/wallet.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.settings{
+    background-image: url('appIcons/settings.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.phone{
+    background-image: url('appIcons/phone.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.safari{
+    background-image: url('appIcons/safari.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.messages{
+    background-image: url('appIcons/message.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.music{
+    background-image: url('appIcons/music.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.launcher{
+    height: 75%;
+}
+.dock{
+    height: 15%;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.page{
+    height: 5%;
+}
+.navBar{
+    height: 5%;
+
+}
